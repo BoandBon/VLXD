@@ -10,5 +10,3 @@ Sàn thương mại điện tử chuyên ngành VLXD, kết nối 9 tổ đội 
 - **Sàn Chào Thầu B2B:** Đăng dự án để đại lý cấp 1 và nhà thầu nộp báo giá cạnh tranh.
 - **Quản Trị Kho & Sổ Công Nợ (Admin ERP):** Theo dõi hạn mức tín dụng, thu nợ và điều phối xe giao hàng nhiều đợt.
 
-## 🌐 Triển Khai Miễn Phí Trên GitHub Pages
-Chỉ cần tải file `index.html` này lên Repository GitHub và bật **Settings -> Pages -> Deploy from branch (main / root)** là trang web hoạt động ngay lập tức!
